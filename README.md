@@ -3,7 +3,7 @@
 Hello, this repository will include some of the coursework for **Stats 220**
 
 * There are a total of 5 projects in the course
-* Project checklist:
+* Below is a project checklist:
 1. Project 1 ✔️
 2. Project 2
 3. Project 3
